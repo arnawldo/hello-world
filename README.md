@@ -1,2 +1,3 @@
 # hello-world
-Testing git
+
+I'm Arnold Taremwa. I'm practising git, which is pretty neat.
